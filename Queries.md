@@ -95,7 +95,7 @@ where id = 7
 
 ```
 insert into customers(id,email,phone,name,costumer_id,birthday,gender)
-values(7,'abc@gmail','5458463233','Abuzer',7,'1999-06-06','Male')
+values(7,'furkan@gmail','5458463233','furkan',7,'1999-06-06','Male')
  
 ```
 #### Kod Çıktısı :
