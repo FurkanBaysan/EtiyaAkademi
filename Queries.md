@@ -162,7 +162,7 @@ between 5 and 60
 
 ---------------------------------------------------------------------------------------------------------------
 
->- **<h3>Sorgu 10</h3>Ürün ve Katecori Tablosunu Birleştiren Sorgu (left join Usage)**
+>- **<h3>Sorgu 10</h3> Left Join Usage**
 
 ```
 select * from products p 
@@ -182,7 +182,7 @@ on c.category_id=pc.category_id
 ---------------------------------------------------------------------------------------------------------------
 
 
->- **<h3>Sorgu 11</h3>Ürün ve Kategori Tablosunu Birleştiren Sorgu (right join Usage)**
+>- **<h3>Sorgu 11</h3> Right Join Usage**
 
 ```
 select * from products p 
@@ -202,7 +202,7 @@ on c.category_id=pc.category_id
 ---------------------------------------------------------------------------------------------------------------
 
 
->- **<h3>Sorgu 12</h3>Ürün ve Kategori Tablosunu Birleştiren Sorgu (full join Usage)**
+>- **<h3>Sorgu 12</h3> Full Join Usage **
 
 ```
 select * from products p 
